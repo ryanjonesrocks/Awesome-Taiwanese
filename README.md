@@ -30,4 +30,4 @@ This list is a collection of videos, books, songs and resources confroting the i
 [Taiwanese Grammar: A Concise Reference (POJ)](https://b-ok.cc/book/2649963/5e4f9b)
 
 # Contributing:
-If you would like to add to this list, please submit a pull request. 
+* If you would like to add to this list, please submit a pull request. 
