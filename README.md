@@ -1,5 +1,5 @@
 # Awesome-Taiwanese （學習臺語的資源）
-This list is a collection of videos, books, songs and resources confroting the incredibly intimidating dialect of Taiwanese. 
+This list is a collection of videos, books, songs and resources confronting the incredibly intimidating dialect of Taiwanese. 
 
 # Dictionaries
 * [Chhoe Taigi - lots of dictionaries in one place](https://chhoe.taigi.info/)
