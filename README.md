@@ -36,6 +36,7 @@ This list is a collection of videos, books, songs and resources confronting the 
 * [Taiwanese Facebook Group](https://www.facebook.com/groups/Taigisia/)
 * [r/Taiwan Discord](https://discord.com/invite/zFBqpET)
 * [#Taigi Twitter](https://twitter.com/hashtag/T%C3%A2ig%C3%AD?src=hashtag_click)
+* [r/ohtaigi Taiwanese SubReddit](https://www.reddit.com/r/ohtaigi/)
 
 # Contributing:
 If you would like to add to this list, please submit a pull request or email me at ryanjonesxyz@gmail.com 
