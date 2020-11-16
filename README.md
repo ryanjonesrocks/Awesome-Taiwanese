@@ -8,6 +8,7 @@ This list is a collection of videos, books, songs and resources confronting the 
 
 # Podcasts
 * [Bite-size Taiwanese - podcast](https://bitesizetaiwanese.com/)
+* [觀測站底加辣 - US/Taiwan watch (podcast contains roughly 20% Taiwanese)](https://open.spotify.com/show/5CnwG4Tfr7YaQ42FETAI5t?si=xiaMl0X8QPOgUTXy0cVGSg)
 
 # YouTube Channels
 * [Aiong Taigi - youtube channel, good explanations](https://www.youtube.com/channel/UC8Bj1AnLs3na054bM37BTNg)
