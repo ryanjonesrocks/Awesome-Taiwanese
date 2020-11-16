@@ -14,6 +14,7 @@ This list is a collection of videos, books, songs and resources confronting the 
 * [Aiong Taigi - youtube channel, good explanations](https://www.youtube.com/channel/UC8Bj1AnLs3na054bM37BTNg)
 * [民視台灣學堂 Formosa TV Taiwan Lecture Hall: 台語講世事](https://www.youtube.com/watch?v=I2xRzydjFks&list=PLe8vfIFNtjRdtsPxY3r-Q644ipqw9bFKC)
 * [新北市國小本土語言閩南語教學補充教材](https://www.youtube.com/channel/UC_YLMUURi__hL7rWO7tj9-Q)
+* [台語台: 臺語新聞](https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ)
 
 # Shows
 * [花田少年史](https://www.youtube.com/playlist?list=PL5Tb9R7rH9EDLUWn4WsNCynTlm-DPFl-c)
@@ -29,6 +30,12 @@ This list is a collection of videos, books, songs and resources confronting the 
 # Books
 * [Taiwanese Grammar: A Concise Reference (TL)](https://b-ok.cc/book/2649964/62cdce)
 * [Taiwanese Grammar: A Concise Reference (POJ)](https://b-ok.cc/book/2649963/5e4f9b)
+* [Maryknoll textbooks](http://www.tailingua.com/resources/books/)
+
+# Social Media
+* [Taiwanese Facebook Group](https://www.facebook.com/groups/Taigisia/)
+* [r/Taiwan Discord](https://discord.com/invite/zFBqpET)
+* [#Taigi Twitter](https://twitter.com/hashtag/T%C3%A2ig%C3%AD?src=hashtag_click)
 
 # Contributing:
 If you would like to add to this list, please submit a pull request or email me at ryanjonesxyz@gmail.com 
