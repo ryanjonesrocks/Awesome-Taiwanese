@@ -19,6 +19,7 @@ This list is a collection of videos, books, songs and resources confronting the 
 # Shows
 * [花田少年史](https://www.youtube.com/playlist?list=PL5Tb9R7rH9EDLUWn4WsNCynTlm-DPFl-c)
 * [炮仔聲 The sound of happiness](https://www.youtube.com/watch?v=JYS7sDNUgC4)
+* [阿爸的願望](https://www.youtube.com/watch?v=FV6cFMICE2M&list=PL2FfYhEj_1e6TkR8M7DUXvKlutPGNOqra)
 
 # Courses
 * [Glossika - great concept for language learning, poor execution for Taiwanese](https://ai.glossika.com/)
