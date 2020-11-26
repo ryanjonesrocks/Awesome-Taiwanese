@@ -29,7 +29,7 @@ This list is a collection of videos, books, songs and resources confronting the 
 * [Song lyrics with "correct" characters and romanisation](https://kuasu.tgb.org.tw/)
 
 # Books
-* [Beginner Book]: (https://language.moe.gov.tw/upload/download/jts/03%E8%AA%9E%E5%8F%A51.pdf)
+* [Beginner Book](https://language.moe.gov.tw/upload/download/jts/03%E8%AA%9E%E5%8F%A51.pdf)
 * [臺語文教材下載: Taiwanese Textbooks](https://www.huayuworld.org/taiwanese-download.php)
 * [Taiwanese Grammar: A Concise Reference (TL)](https://b-ok.cc/book/2649964/62cdce)
 * [Taiwanese Grammar: A Concise Reference (POJ)](https://b-ok.cc/book/2649963/5e4f9b)
