@@ -16,10 +16,12 @@ This list is a collection of videos, books, songs and resources confronting the 
 * [新北市國小本土語言閩南語教學補充教材](https://www.youtube.com/channel/UC_YLMUURi__hL7rWO7tj9-Q)
 * [台語台: 臺語新聞](https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ)
 
-# Shows
+# Shows / Videos
 * [花田少年史](https://www.youtube.com/playlist?list=PL5Tb9R7rH9EDLUWn4WsNCynTlm-DPFl-c)
 * [炮仔聲 The sound of happiness](https://www.youtube.com/watch?v=JYS7sDNUgC4)
 * [阿爸的願望](https://www.youtube.com/watch?v=FV6cFMICE2M&list=PL2FfYhEj_1e6TkR8M7DUXvKlutPGNOqra)
+* [『動畫臺灣史』臺語版](https://www.youtube.com/playlist?list=PLwItru4bLdHz49CafbhvP5pWkw-0Zg7Ob)
+* 
 
 # Courses
 * [Glossika - great concept for language learning, poor execution for Taiwanese](https://ai.glossika.com/)
